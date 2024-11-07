@@ -1,4 +1,5 @@
 # OpenUI
+![image](https://github.com/user-attachments/assets/55a994eb-854e-43f6-b267-07de713af259)
 
 <p align="center">
   <img src="./assets/openui.png" width="150" alt="OpenUI" />
